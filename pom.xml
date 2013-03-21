@@ -72,16 +72,6 @@
     </dependencies>
     <distributionManagement>
 
-        <!--<repository>
-            <id>releases</id>
-            <url>http://10.67.254.101:8081/nexus/content/repositories/releases</url>
-        </repository>-->
-
-        <snapshotRepository>
-            <id>snapshots</id>
-            <name>BPS Snapshots</name>
-            <url>http://10.67.254.101:8081/nexus/content/repositories/snapshots</url>
-        </snapshotRepository>
 
     </distributionManagement>
 
